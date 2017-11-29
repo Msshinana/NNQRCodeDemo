@@ -1,1 +1,2 @@
+*.js linguist-language=objective-C  
 *.c linguist-language=objective-C 
